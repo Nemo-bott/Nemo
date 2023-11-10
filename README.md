@@ -2,7 +2,7 @@
 
 Welcome to Nemo, a feature-rich and futuristic Discord bot developed by 4cxa and vekaomg.
 
-## ℹ️ About Nemo
+## 🔰 About Nemo
 
 Nemo is a versatile and powerful Discord bot designed to enhance your server experience. Packed with advanced features and futuristic capabilities, Nemo aims to provide a seamless and enjoyable environment for your community.
 
